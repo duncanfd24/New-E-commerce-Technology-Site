@@ -27,7 +27,7 @@ DB_PORT=5432
 
 ## Walkthrough Video:
 
-A walkthrough video demonstrating the application's functionality and meeting the acceptance criteria can be found at 
+A walkthrough video demonstrating the application's functionality and meeting the acceptance criteria can be found at https://app.screencastify.com/v2/manage/videos/Gcj6qYz8w3Fw8c5jEbeY
 
 ## License
 
